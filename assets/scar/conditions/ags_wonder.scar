@@ -53,6 +53,7 @@ function AGS_Wonder_OnPlay()
 	AGS_Wonder_CreateBuildObjective()
 	-- Timers and time checks are initialized last.
 	Rule_AddInterval(AGS_Wonder_OnTimerTick, AGS_WONDER_CHECK_FREQUENCY)
+	AGS_Wonder_FindWonder()
 end
 
 function AGS_Wonder_TreatyStarted()
@@ -122,6 +123,43 @@ function AGS_Wonder_OnGameOver()
 	Rule_RemoveGlobalEvent(AGS_Wonder_OnDamageReceived)
 	Rule_RemoveGlobalEvent(AGS_Wonder_OnEntityKilled)
 	AGS_Wonder_RemoveAllObjectives()
+end
+
+function AGS_Wonder_FindWonder()
+	-- For every player in the match
+	AGS_Print ("AGS_Wonder_FindWonder begin")
+	for i, player in pairs(PLAYERS) do
+
+		-- Get the player's entities and place them into an ENTITY GROUP
+		local eg_player_entities = Player_GetEntities(player.id)
+		if player.isHuman == true then
+			AGS_Print ("print begin i = ", i)
+			AGS_Print ("player.id = ", player.id)
+			--AGS_Print (player.id)
+
+			-- Filter out everything in the ENTITY GROUP except for the Town Center
+			EGroup_Filter(eg_player_entities, "wonder", FILTER_KEEP)
+			AGS_Print ("EGroup_Count(eg_player_entities) = ",EGroup_Count(eg_player_entities))
+			-- Get the Wonder ENTITY by getting the first entry in the ENTITY GROUP we just filtered
+			if eg_player_entities ~= nil and EGroup_Count(eg_player_entities) >0 then
+				local entity =  EGroup_GetEntityAt(eg_player_entities, 1)
+				-- Get the Wonder's ENTITY ID
+				local entity_id = Entity_GetID(entity)
+				-- Get the Wonder's position
+				-- local position = Entity_GetPosition(entity)
+				-- Store the player's Wonder information so it can be referenced later
+				AGS_Wonder_ConstructionCompleted(player, entity_id)
+				AGS_Print ("wonder entity_id", entity_id)
+				--player._wonder.entity_uwid = entity_id
+				player.AGS_Wonder.entity_uwid = entity_id
+				AGS_Print ("AGS_Wonder_ConstructionCompleted(player, entity_id)")
+			else
+				--ASG_Print ("I found no wonder")
+				print ("I found no wonder")
+			end
+		end
+	end
+	print ("AGS_Wonder_FindWonder end")
 end
 
 ---------------------------------------------------------------------------------------------------

@@ -45,7 +45,7 @@ AGS_NOTIFICATIONS_SURRENDER = {
 }
 AGS_NOTIFICATIONS_TEAM_SOLIDARITY = {
 	-- "%1PLAYER_NAME% surrendered in solidarity with his teammate"
-	title = "$64c5019a145c4e4da448dbd3adeea61e:231",
+	title = "$ca432794797c44f18eeea92cc2217b21:231",
 	sfx = nil,	
 }
 AGS_NOTIFICATIONS_ELIMINATION = {
@@ -60,33 +60,33 @@ AGS_NOTIFICATIONS_ANNIHILATION = {
 }
 AGS_NOTIFICATIONS_SCORE = {
 	-- "Still waits %1PLAYER_NAME% for Godot."
-	title = "$64c5019a145c4e4da448dbd3adeea61e:273",
+	title = "$ca432794797c44f18eeea92cc2217b21:273",
 	sfx = nil,	
 }
 AGS_NOTIFICATIONS_SCORE_COUNTDOWN = {
 	-- "%1MINUTES_REMAINING% minutes until Game Ends"
-	title_victory = "$64c5019a145c4e4da448dbd3adeea61e:310",
-	title_defeat = "$64c5019a145c4e4da448dbd3adeea61e:310",
+	title_victory = "$ca432794797c44f18eeea92cc2217b21:310",
+	title_defeat = "$ca432794797c44f18eeea92cc2217b21:310",
 	-- "1 minute until Game Ends"
-	title_final_victory = "$64c5019a145c4e4da448dbd3adeea61e:311",
-	title_final_defeat = "$64c5019a145c4e4da448dbd3adeea61e:311",	
+	title_final_victory = "$ca432794797c44f18eeea92cc2217b21:311",
+	title_final_defeat = "$ca432794797c44f18eeea92cc2217b21:311",	
 }
 AGS_NOTIFICATIONS_REGICIDE = {
 	-- "%1PLAYER_NAME% assassinated"
-	title = "$64c5019a145c4e4da448dbd3adeea61e:264",
+	title = "$ca432794797c44f18eeea92cc2217b21:264",
 	sfx = nil,	
 
 }
 AGS_NOTIFICATIONS_REGICIDE_ATTACKED = {
 	-- "King under attack"
-	self_attacked = "$64c5019a145c4e4da448dbd3adeea61e:266",
+	self_attacked = "$ca432794797c44f18eeea92cc2217b21:266",
 	-- "Enemy attacking %1PLAYER_NAME%'s king"
-	ally_attacked = "$64c5019a145c4e4da448dbd3adeea61e:265",
+	ally_attacked = "$ca432794797c44f18eeea92cc2217b21:265",
 	attacked_sfx = "mus_stinger_landmark_building_damaged",
 }
 AGS_NOTIFICATIONS_CONQUEST = {
 	-- "%1PLAYER_NAME% conquered"
-	title = "$64c5019a145c4e4da448dbd3adeea61e:267",
+	title = "$ca432794797c44f18eeea92cc2217b21:267",
 	sfx = nil,	
 }
 AGS_NOTIFICATIONS_CONQUEST_ATTACKED = {
@@ -98,7 +98,7 @@ AGS_NOTIFICATIONS_CONQUEST_ATTACKED = {
 }
 AGS_NOTIFICATIONS_CONQUEST_DESTROYED = {
 	-- "Destroyed Landmark"
-	self_destroyed = "$64c5019a145c4e4da448dbd3adeea61e:276",
+	self_destroyed = "$ca432794797c44f18eeea92cc2217b21:276",
 	-- "Enemy destroyed %1PLAYER_NAME%'s Landmark"
 	ally_destroyed = 11198268,
 	-- "Enemy destroyed %1PLAYER_NAME%'s Landmark"
@@ -122,7 +122,7 @@ AGS_NOTIFICATIONS_CONQUEST_DESTROYED = {
 }
 AGS_NOTIFICATIONS_WONDER = {
 	-- "%1PLAYER_NAME% couldn't withstand the glory of the wonder"
-	title = "$64c5019a145c4e4da448dbd3adeea61e:274",
+	title = "$ca432794797c44f18eeea92cc2217b21:274",
 	sfx = nil,	
 }
 AGS_NOTIFICATIONS_WONDER_ATTACKED = {
@@ -134,7 +134,7 @@ AGS_NOTIFICATIONS_WONDER_ATTACKED = {
 }
 AGS_NOTIFICATIONS_WONDER_CONSTRUCTION = {
 	-- "Building a Wonder"
-	self_action = "$64c5019a145c4e4da448dbd3adeea61e:275",
+	self_action = "$ca432794797c44f18eeea92cc2217b21:275",
 	-- "%1PLAYER_NAME% is building a Wonder"
 	ally_action = 11159074,
 	-- "%1PLAYER_NAME% is building a Wonder"
@@ -183,7 +183,7 @@ AGS_NOTIFICATIONS_WONDER_COUNTDOWN = {
 }
 AGS_NOTIFICATIONS_RELIGIOUS = {
 	-- "%1PLAYER_NAME% bowed down before new god"
-	title = "$64c5019a145c4e4da448dbd3adeea61e:313",
+	title = "$ca432794797c44f18eeea92cc2217b21:313",
 	sfx = nil,	
 }
 AGS_NOTIFICATIONS_RELIGIOUS_COUNTDOWN = {
@@ -294,11 +294,11 @@ AGS_NOTIFICATIONS_RELIGIOUS_NEUTRALIZED = {
 
 AGS_NOTIFICATIONS_TREATY_COUNTDOWN = {
 	-- "%1MINUTES_REMAINING% minutes until Treaty Ends"
-	title_victory = "$64c5019a145c4e4da448dbd3adeea61e:232",
-	title_defeat = "$64c5019a145c4e4da448dbd3adeea61e:232",
+	title_victory = "$ca432794797c44f18eeea92cc2217b21:232",
+	title_defeat = "$ca432794797c44f18eeea92cc2217b21:232",
 	-- "1 minute until Treaty Ends"
-	title_final_victory = "$64c5019a145c4e4da448dbd3adeea61e:306",
-	title_final_defeat = "$64c5019a145c4e4da448dbd3adeea61e:306",	
+	title_final_victory = "$ca432794797c44f18eeea92cc2217b21:306",
+	title_final_defeat = "$ca432794797c44f18eeea92cc2217b21:306",	
 }
 -- Points during countdown at which to display loss warning.
 -- Arrange in decreasing order since music intensity increases when the last one triggers.

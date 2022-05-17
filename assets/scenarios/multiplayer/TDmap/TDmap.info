@@ -1,0 +1,164 @@
+HeaderInfo =  
+{
+	mapsize =  
+	{
+		896,
+		896,
+	},
+	point_positions =  
+	{
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1000,
+			x = 63.50000,
+			y = 0.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1001,
+			x = -41.50000,
+			y = 0.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1002,
+			x = -125.50000,
+			y = 251.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1003,
+			x = -83.50000,
+			y = 314.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1004,
+			x = 105.50000,
+			y = -334.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1005,
+			x = -187.50000,
+			y = 314.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1006,
+			x = 167.50000,
+			y = -250.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1007,
+			x = 251.50000,
+			y = -313.50000,
+		},
+		 
+		{
+			ebp_name = "holy_site",
+			owner_id = 0,
+			x = -9.50000,
+			y = 1.50000,
+		},
+	},
+	scenario_type = 1,
+	scenarioname = "自用防守图",
+	slots =  
+	{
+		 
+		{
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			status = 2,
+			team = 1,
+		},
+		 
+		{
+			status = 2,
+			team = 1,
+		},
+		 
+		{
+			status = 2,
+			team = 1,
+		},
+		 
+		{
+			status = 2,
+			team = 1,
+		},
+		 
+		{
+			status = 2,
+			team = 1,
+		},
+		 
+		{
+			status = 2,
+			team = 1,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+	},
+	start_location = 1,
+	version = 3001,
+	visible_in_lobby = true,
+	worldbp = "default",
+}
+
