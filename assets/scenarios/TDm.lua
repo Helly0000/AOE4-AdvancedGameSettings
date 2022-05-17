@@ -1,25 +1,461 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<ScenarioUserSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Essence.Editor.ScenarioEditor.Controls">
-	<CameraSettings xmlns:d2p1="http://schemas.datacontract.org/2004/07/Essence.Editor.Bridge.Scenario">
-		<d2p1:SelectedCamera>Tool</d2p1:SelectedCamera>
-		<d2p1:SerializedData>UmVsaWMgQ2h1bmt5DQoaAAQAAAABAAAARk9MRENTQkS4CwAAoQEAAAAAAABGT0xEQ1NCU7gLAAAlAQAAAAAAAERBVEFEQVRBuAsAABAAAAAAAAAADAAAAGRlZmF1bHRfdG9vbEZPTERDU0JDuAsAALUAAAAAAAAAREFUQURBVEG4CwAAGQAAAAAAAAAVAAAAZGVmYXVsdF9hdXRvZGVjbGluYXRlRk9MRENFQ024CwAANAAAAAAAAABGT0xERkxDTbkLAAAgAAAAAAAAAERBVEFEQVRBuQsAAAwAAAAAAAAAAAAAAAAAAAAAAAAARk9MRENFQ024CwAALAAAAAAAAABGT0xERlRDTbkLAAAYAAAAAAAAAERBVEFUQVJHuQsAAAQAAAAAAAAAAAAAAEZPTERDU0JDuAsAACQAAAAAAAAAREFUQURBVEG4CwAAEAAAAAAAAAAMAAAAZGVmYXVsdF90b29sREFUQUNBTUS4CwAAVAAAAAAAAAAO5j3DcxedQ46jW8MlEF5CqJdSQo40zkElEF5CDv5SQo40zkFf4dk+XHNMP2jh2T6BSmA/8xeWPgXPuT7crvi9Bs+5Ptuu+L2ASmC/8xeWvgAAIEI=</d2p1:SerializedData>
-	</CameraSettings>
-	<DefaultParentLayer>tdmap</DefaultParentLayer>
-	<GeneratorSettings xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
-		<d2p1:KeyValueOfstringGeneratorSettings_PDn_PAR3E>
-			<d2p1:Key>Random Scenario</d2p1:Key>
-			<d2p1:Value xmlns:d4p1="http://schemas.datacontract.org/2004/07/Essence.Editor.Bridge.Scenario.Generators" i:type="d4p1:ScenarioGeneratorSettings">
-				<d4p1:AutoIncrementRandomSeed>false</d4p1:AutoIncrementRandomSeed>
-				<d4p1:Biome>temperate</d4p1:Biome>
-				<d4p1:ClearDefaultParent>true</d4p1:ClearDefaultParent>
-				<d4p1:CustomLayout>oceanHeight = -100.00000
+oceanHeight = -100.00000
 terrainLayoutResult =  
 {
 	 
 	{
 		 
 		{
+			terrainType = "tt_ocean",
+		},
+		 
+		{
+			terrainType = "tt_ocean",
+		},
+		 
+		{
+			terrainType = "tt_ocean",
+		},
+		 
+		{
+			terrainType = "tt_ocean",
+		},
+		 
+		{
+			terrainType = "tt_ocean",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
 			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_ocean",
+		},
+		 
+		{
+			terrainType = "tt_ocean",
+		},
+		 
+		{
+			terrainType = "tt_ocean",
+		},
+		 
+		{
+			terrainType = "tt_ocean",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_ocean",
+		},
+		 
+		{
+			terrainType = "tt_ocean",
+		},
+		 
+		{
+			terrainType = "tt_ocean",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
 		},
 		 
 		{
@@ -89,33 +525,108 @@ terrainLayoutResult =
 		{
 			terrainType = "tt_impasse_trees_plains_forest",
 		},
+	},
+	 
+	{
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_ocean",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_lake_deep",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_lake_deep",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_lake_deep",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_lake_deep",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_lake_deep",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
 		},
 		 
 		{
@@ -194,8 +705,3859 @@ terrainLayoutResult =
 	{
 		 
 		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
 			terrainType = "tt_impasse_trees_plains_forest",
 		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_player_start_classic_plains_naval_hybrid",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_player_start_classic_plains_naval_small",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			playerIndex = 4,
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
+			playerIndex = 7,
+			terrainType = "tt_player_start_classic_plains_low_trees",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_deep",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			playerIndex = 6,
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_settlement_naval",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains_cliff",
+		},
+		 
+		{
+			terrainType = "tt_plains_cliff",
+		},
+		 
+		{
+			terrainType = "tt_plains_cliff",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_plains_cliff",
+		},
+		 
+		{
+			terrainType = "tt_plains_cliff",
+		},
+		 
+		{
+			terrainType = "tt_plains_cliff",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_plains_cliff",
+		},
+		 
+		{
+			terrainType = "tt_plains_cliff",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_plains_cliff",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_lake_shallow",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_wolf_spawner",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_tactical_region_stone_plateau_med_c",
+		},
+		 
+		{
+			terrainType = "tt_tactical_region_stone_plateau_med_c",
+		},
+		 
+		{
+			terrainType = "tt_relic_spawner",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_wolf_spawner",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_tactical_region_gold_plateau_high_a",
+		},
+		 
+		{
+			terrainType = "tt_tactical_region_gold_plateau_high_a",
+		},
+		 
+		{
+			terrainType = "tt_tactical_region_gold_plateau_high_a",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_wolf_spawner",
+		},
+		 
+		{
+			terrainType = "tt_wolf_spawner",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_player_start_classic_plains_close_gold",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_pocket_sheep_a",
+		},
+		 
+		{
+			terrainType = "tt_pocket_sheep_a",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			playerIndex = 1,
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_holy_site_hill",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			playerIndex = 0,
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_gentle_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_pocket_sheep_a",
+		},
+		 
+		{
+			terrainType = "tt_pocket_sheep_a",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_pocket_sheep_a",
+		},
+		 
+		{
+			terrainType = "tt_pocket_sheep_a",
+		},
+		 
+		{
+			terrainType = "tt_pocket_sheep_a",
+		},
+		 
+		{
+			terrainType = "tt_pocket_sheep_a",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_relic_spawner",
+		},
+		 
+		{
+			terrainType = "tt_pocket_sheep_a",
+		},
+		 
+		{
+			terrainType = "tt_pocket_sheep_a",
+		},
+		 
+		{
+			terrainType = "tt_pocket_sheep_a",
+		},
+		 
+		{
+			terrainType = "tt_pocket_sheep_a",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_wolf_spawner",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_tactical_region_stone_plateau_low_a",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_tactical_region_stone_plateau_med_a",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_tactical_region_stone_plateau_med_a",
+		},
+		 
+		{
+			terrainType = "tt_hills_med_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_pocket_sheep_a",
+		},
+		 
+		{
+			terrainType = "tt_pocket_sheep_a",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_tactical_region_stone_plateau_med_a",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
 		 
 		{
 			terrainType = "tt_impasse_trees_plains_forest",
@@ -226,8 +4588,151 @@ terrainLayoutResult =
 		},
 		 
 		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_swamp",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_med",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_tactical_region_gold_plateau_low_a",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
 			terrainType = "tt_impasse_trees_plains_forest",
 		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
 		 
 		{
 			terrainType = "tt_impasse_trees_plains_forest",
@@ -258,95 +4763,131 @@ terrainLayoutResult =
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_swamp",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_beach",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_beach",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_beach",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_beach",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_valley_shallow",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_valley_shallow",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
 		},
 		 
 		{
@@ -401,127 +4942,127 @@ terrainLayoutResult =
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_beach",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_beach",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_beach",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_beach",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_beach",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_valley_shallow",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_valley_shallow",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plains",
 		},
 		 
 		{
@@ -576,8 +5117,147 @@ terrainLayoutResult =
 		},
 		 
 		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_tactical_region_stone_plateau_low_a",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
 			terrainType = "tt_impasse_trees_plains_forest",
 		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
 		 
 		{
 			terrainType = "tt_impasse_trees_plains_forest",
@@ -608,8 +5288,151 @@ terrainLayoutResult =
 		},
 		 
 		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_plateau_standard_small",
+		},
+		 
+		{
+			terrainType = "tt_tactical_region_stone_plateau_low_a",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
 			terrainType = "tt_impasse_trees_plains_forest",
 		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
 		 
 		{
 			terrainType = "tt_impasse_trees_plains_forest",
@@ -640,8 +5463,151 @@ terrainLayoutResult =
 		},
 		 
 		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_beach",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
 			terrainType = "tt_impasse_trees_plains_forest",
 		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
 		 
 		{
 			terrainType = "tt_impasse_trees_plains_forest",
@@ -672,8 +5638,151 @@ terrainLayoutResult =
 		},
 		 
 		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_valley_shallow",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
 			terrainType = "tt_impasse_trees_plains_forest",
 		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+	},
+	 
+	{
 		 
 		{
 			terrainType = "tt_impasse_trees_plains_forest",
@@ -697,6 +5806,139 @@ terrainLayoutResult =
 		 
 		{
 			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			playerIndex = 2,
+			terrainType = "tt_plains_smooth",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_hills_low_rolling",
 		},
 		 
 		{
@@ -914,7 +6156,7 @@ terrainLayoutResult =
 		},
 		 
 		{
-			terrainType = "tt_plains",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
@@ -1118,7 +6360,7 @@ terrainLayoutResult =
 		 
 		{
 			playerIndex = 5,
-			terrainType = "tt_player_start_classic_plains_low_trees",
+			terrainType = "tt_plains_smooth",
 		},
 		 
 		{
@@ -1139,2790 +6381,11 @@ terrainLayoutResult =
 		 
 		{
 			playerIndex = 3,
-			terrainType = "tt_player_start_classic_plains_low_trees",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_settlement_plateau",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_settlement_plateau",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains_smooth",
-		},
-		 
-		{
-			terrainType = "tt_plains_smooth",
-		},
-		 
-		{
 			terrainType = "tt_plains_smooth",
 		},
 		 
 		{
 			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains_smooth",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			playerIndex = 2,
-			terrainType = "tt_player_start_classic_plains_low_trees",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_stone_plateau_low_a",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_stone_plateau_med_a",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_stone_plateau_low_a",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_stone_plateau_med_a",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_pocket_wood_c",
-		},
-		 
-		{
-			terrainType = "tt_pocket_wood_c",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_pocket_wood_c",
-		},
-		 
-		{
-			terrainType = "tt_pocket_wood_c",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_pocket_wood_c",
-		},
-		 
-		{
-			terrainType = "tt_pocket_wood_c",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_stone_plateau_med_a",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_wolf_spawner",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_stone_plateau_low_a",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_stone_plateau_med_a",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_stone_plateau_med_a",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_pocket_sheep_a",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_pocket_sheep_a",
-		},
-		 
-		{
-			terrainType = "tt_pocket_sheep_a",
-		},
-		 
-		{
-			terrainType = "tt_pocket_sheep_a",
-		},
-		 
-		{
-			terrainType = "tt_pocket_sheep_a",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_pocket_sheep_a",
-		},
-		 
-		{
-			terrainType = "tt_pocket_sheep_a",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_pocket_sheep_a",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_pocket_sheep_a",
-		},
-		 
-		{
-			terrainType = "tt_pocket_sheep_a",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			playerIndex = 1,
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_holy_site_hill",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			playerIndex = 0,
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_wolf_spawner",
-		},
-		 
-		{
-			terrainType = "tt_wolf_spawner",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
 		},
 		 
 		{
@@ -3930,75 +6393,19 @@ terrainLayoutResult =
 		},
 		 
 		{
-			terrainType = "tt_plateau_high",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_plateau_high",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_plateau_high",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
+			terrainType = "tt_settlement_plateau",
 		},
 		 
 		{
@@ -4018,177 +6425,6 @@ terrainLayoutResult =
 		},
 		 
 		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_wolf_spawner",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_gold_plateau_high_a",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_gold_plateau_high_a",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_gold_plateau_high_a",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_gold_plateau_high_a",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
 			terrainType = "tt_plains",
 		},
 		 
@@ -4202,153 +6438,6 @@ terrainLayoutResult =
 		 
 		{
 			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_wolf_spawner",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_hills_med_rolling",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_stone_plateau_med_c",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_stone_plateau_med_c",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
 		},
 		 
 		{
@@ -4411,2017 +6500,11 @@ terrainLayoutResult =
 		},
 		 
 		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
 			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
 			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_gold_plateau_low_e",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_swamp",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_plains_cliff",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_tactical_region_gold_plateau_low_e",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_plateau_med",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_plains_cliff",
-		},
-		 
-		{
-			terrainType = "tt_plains_cliff",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_plains_cliff",
-		},
-		 
-		{
-			terrainType = "tt_plains_cliff",
-		},
-		 
-		{
-			terrainType = "tt_plains_cliff",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains_cliff",
-		},
-		 
-		{
-			terrainType = "tt_plains_cliff",
-		},
-		 
-		{
-			terrainType = "tt_plains_cliff",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plateau_high",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_plateau_standard_small",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_relic_spawner",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_gentle_rolling",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			playerIndex = 6,
-			terrainType = "tt_player_start_classic_plains_low_trees",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plains_smooth",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_hills_low_rolling",
-		},
-		 
-		{
-			terrainType = "tt_plains_smooth",
-		},
-		 
-		{
-			terrainType = "tt_plains_smooth",
-		},
-		 
-		{
-			terrainType = "tt_plains_smooth",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
 		},
 		 
 		{
@@ -6457,15 +6540,6 @@ terrainLayoutResult =
 		},
 		 
 		{
-			playerIndex = 7,
-			terrainType = "tt_player_start_classic_plains_low_trees",
-		},
-		 
-		{
-			terrainType = "tt_plains_smooth",
-		},
-		 
-		{
 			terrainType = "tt_plains_smooth",
 		},
 		 
@@ -6482,106 +6556,23 @@ terrainLayoutResult =
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-	},
-	 
-	{
-		 
-		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_plains",
 		},
 		 
 		{
@@ -6605,11 +6596,6 @@ terrainLayoutResult =
 		},
 		 
 		{
-			playerIndex = 4,
-			terrainType = "tt_player_start_classic_plains_low_trees",
-		},
-		 
-		{
 			terrainType = "tt_plains",
 		},
 		 
@@ -6626,19 +6612,19 @@ terrainLayoutResult =
 		},
 		 
 		{
-			terrainType = "tt_valley_shallow",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_plains_smooth",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_plains_smooth",
+			terrainType = "tt_plains",
 		},
 		 
 		{
-			terrainType = "tt_plains_smooth",
+			terrainType = "tt_plains",
 		},
 		 
 		{
@@ -6677,95 +6663,27 @@ terrainLayoutResult =
 	{
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
@@ -6790,22 +6708,6 @@ terrainLayoutResult =
 		 
 		{
 			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_plains",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
-		},
-		 
-		{
-			terrainType = "tt_valley_shallow",
 		},
 		 
 		{
@@ -6821,7 +6723,91 @@ terrainLayoutResult =
 		},
 		 
 		{
-			terrainType = "tt_valley_shallow",
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
+		},
+		 
+		{
+			terrainType = "tt_plains",
 		},
 		 
 		{
@@ -6852,35 +6838,103 @@ terrainLayoutResult =
 	{
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_high_flattop",
+		},
+		 
+		{
+			terrainType = "tt_hills_high_flattop",
+		},
+		 
+		{
+			terrainType = "tt_hills_high_flattop",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
 		},
 		 
 		{
@@ -6892,83 +6946,15 @@ terrainLayoutResult =
 		},
 		 
 		{
-			terrainType = "tt_plateau_spike",
+			terrainType = "tt_player_start_classic_hills_mountains",
 		},
 		 
 		{
-			terrainType = "tt_plateau_spike",
+			terrainType = "tt_player_start_classic_hills_mountains",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_player_start_classic_hills_mountains",
 		},
 		 
 		{
@@ -7027,107 +7013,19 @@ terrainLayoutResult =
 	{
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_plateau_spike",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_beach",
-		},
-		 
-		{
-			terrainType = "tt_plains_smooth",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
@@ -7144,6 +7042,94 @@ terrainLayoutResult =
 		 
 		{
 			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_high_flattop",
+		},
+		 
+		{
+			terrainType = "tt_hills_high_flattop",
+		},
+		 
+		{
+			terrainType = "tt_hills_high_flattop",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_player_start_classic_hills_mountains",
+		},
+		 
+		{
+			terrainType = "tt_player_start_classic_hills_mountains",
+		},
+		 
+		{
+			terrainType = "tt_player_start_classic_hills_mountains",
 		},
 		 
 		{
@@ -7202,39 +7188,103 @@ terrainLayoutResult =
 	{
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_high_flattop",
+		},
+		 
+		{
+			terrainType = "tt_hills_high_flattop",
+		},
+		 
+		{
+			terrainType = "tt_hills_high_flattop",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
 		},
 		 
 		{
@@ -7246,79 +7296,15 @@ terrainLayoutResult =
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_player_start_classic_hills_mountains",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_player_start_classic_hills_mountains",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains_smooth",
-		},
-		 
-		{
-			terrainType = "tt_plains_smooth",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
-		},
-		 
-		{
-			terrainType = "tt_impasse_trees_plains_forest",
+			terrainType = "tt_player_start_classic_hills_mountains",
 		},
 		 
 		{
@@ -7377,111 +7363,15 @@ terrainLayoutResult =
 	{
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_lake_shallow",
-		},
-		 
-		{
-			terrainType = "tt_plains_smooth",
+			terrainType = "tt_impasse_trees_plains_forest",
 		},
 		 
 		{
@@ -7494,6 +7384,102 @@ terrainLayoutResult =
 		 
 		{
 			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_impasse_trees_plains_forest",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_civ",
+		},
+		 
+		{
+			terrainType = "tt_hills_high_flattop",
+		},
+		 
+		{
+			terrainType = "tt_hills_high_flattop",
+		},
+		 
+		{
+			terrainType = "tt_hills_high_flattop",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_high",
+		},
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_plateau_spike",
+		},
+		 
+		{
+			terrainType = "tt_player_start_classic_hills_mountains",
+		},
+		 
+		{
+			terrainType = "tt_player_start_classic_hills_mountains",
+		},
+		 
+		{
+			terrainType = "tt_player_start_classic_hills_mountains",
 		},
 		 
 		{
@@ -7550,122 +7536,3 @@ terrainLayoutResult =
 	},
 }
 
-</d4p1:CustomLayout>
-				<d4p1:DefaultLayerName>generated</d4p1:DefaultLayerName>
-				<d4p1:GenerateAtmosphere>true</d4p1:GenerateAtmosphere>
-				<d4p1:GenerateAudioRegions>true</d4p1:GenerateAudioRegions>
-				<d4p1:GenerateCameraMesh>true</d4p1:GenerateCameraMesh>
-				<d4p1:GenerateDecorations>true</d4p1:GenerateDecorations>
-				<d4p1:GenerateDistributionCategories>
-					<Biome xmlns:d6p1="http://www.w3.org/2001/XMLSchema" i:type="d6p1:string" xmlns="">temperate</Biome>
-					<Values i:type="d2p1:ArrayOfKeyValueOfstringboolean" xmlns="">
-						<d2p1:KeyValueOfstringboolean>
-							<d2p1:Key>gaia</d2p1:Key>
-							<d2p1:Value>true</d2p1:Value>
-						</d2p1:KeyValueOfstringboolean>
-						<d2p1:KeyValueOfstringboolean>
-							<d2p1:Key>resources</d2p1:Key>
-							<d2p1:Value>true</d2p1:Value>
-						</d2p1:KeyValueOfstringboolean>
-						<d2p1:KeyValueOfstringboolean>
-							<d2p1:Key>deco_other</d2p1:Key>
-							<d2p1:Value>true</d2p1:Value>
-						</d2p1:KeyValueOfstringboolean>
-						<d2p1:KeyValueOfstringboolean>
-							<d2p1:Key>deco_rocks</d2p1:Key>
-							<d2p1:Value>true</d2p1:Value>
-						</d2p1:KeyValueOfstringboolean>
-						<d2p1:KeyValueOfstringboolean>
-							<d2p1:Key>deco_foliage</d2p1:Key>
-							<d2p1:Value>true</d2p1:Value>
-						</d2p1:KeyValueOfstringboolean>
-						<d2p1:KeyValueOfstringboolean>
-							<d2p1:Key>trees_dense</d2p1:Key>
-							<d2p1:Value>true</d2p1:Value>
-						</d2p1:KeyValueOfstringboolean>
-						<d2p1:KeyValueOfstringboolean>
-							<d2p1:Key>trees_dense_small</d2p1:Key>
-							<d2p1:Value>true</d2p1:Value>
-						</d2p1:KeyValueOfstringboolean>
-						<d2p1:KeyValueOfstringboolean>
-							<d2p1:Key>trees_loose</d2p1:Key>
-							<d2p1:Value>true</d2p1:Value>
-						</d2p1:KeyValueOfstringboolean>
-						<d2p1:KeyValueOfstringboolean>
-							<d2p1:Key>trees_stealth</d2p1:Key>
-							<d2p1:Value>true</d2p1:Value>
-						</d2p1:KeyValueOfstringboolean>
-						<d2p1:KeyValueOfstringboolean>
-							<d2p1:Key>trees_stealth_small</d2p1:Key>
-							<d2p1:Value>true</d2p1:Value>
-						</d2p1:KeyValueOfstringboolean>
-					</Values>
-				</d4p1:GenerateDistributionCategories>
-				<d4p1:GenerateGrass>true</d4p1:GenerateGrass>
-				<d4p1:GenerateHeightMap>true</d4p1:GenerateHeightMap>
-				<d4p1:GenerateMapBorder>true</d4p1:GenerateMapBorder>
-				<d4p1:GenerateMarkers>true</d4p1:GenerateMarkers>
-				<d4p1:GenerateResources>true</d4p1:GenerateResources>
-				<d4p1:GenerateTiles>true</d4p1:GenerateTiles>
-				<d4p1:GenerateWaterFlowMap>true</d4p1:GenerateWaterFlowMap>
-				<d4p1:GenerateWaterHeightMap>true</d4p1:GenerateWaterHeightMap>
-				<d4p1:GenerateWaterTileMap>true</d4p1:GenerateWaterTileMap>
-				<d4p1:Layout>king_of_hill</d4p1:Layout>
-				<d4p1:RandomSeed i:nil="true" />
-				<d4p1:Size>map_size_896</d4p1:Size>
-				<d4p1:StartingPositionCount>8</d4p1:StartingPositionCount>
-				<d4p1:WinCondition i:nil="true" />
-				<d4p1:WinConditionOptions xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel" i:nil="true" />
-			</d2p1:Value>
-		</d2p1:KeyValueOfstringGeneratorSettings_PDn_PAR3E>
-		<d2p1:KeyValueOfstringGeneratorSettings_PDn_PAR3E>
-			<d2p1:Key>Erode Terrain</d2p1:Key>
-			<d2p1:Value xmlns:d4p1="http://schemas.datacontract.org/2004/07/Essence.Editor.Bridge.Scenario.Generators" i:type="d4p1:ErosionGeneratorSettings">
-				<d4p1:Acceleration>1</d4p1:Acceleration>
-				<d4p1:Chance>100</d4p1:Chance>
-				<d4p1:Drag>0</d4p1:Drag>
-				<d4p1:DragNature>Linear</d4p1:DragNature>
-				<d4p1:ErosiveNature>Linear</d4p1:ErosiveNature>
-				<d4p1:Iterations>1</d4p1:Iterations>
-				<d4p1:MaxConstErosionDepth>0.25</d4p1:MaxConstErosionDepth>
-				<d4p1:MaxErosion>0</d4p1:MaxErosion>
-				<d4p1:MaxSpeed>3</d4p1:MaxSpeed>
-				<d4p1:MinimumHeight>200</d4p1:MinimumHeight>
-				<d4p1:Preset i:nil="true" />
-				<d4p1:StartingHeightBonus>0</d4p1:StartingHeightBonus>
-				<d4p1:TargetWaterDepth>0</d4p1:TargetWaterDepth>
-			</d2p1:Value>
-		</d2p1:KeyValueOfstringGeneratorSettings_PDn_PAR3E>
-		<d2p1:KeyValueOfstringGeneratorSettings_PDn_PAR3E>
-			<d2p1:Key>Shift World</d2p1:Key>
-			<d2p1:Value xmlns:d4p1="http://schemas.datacontract.org/2004/07/Essence.Editor.Bridge.Scenario.Generators" i:type="d4p1:ShiftGeneratorSettings">
-				<d4p1:Delta>-5</d4p1:Delta>
-			</d2p1:Value>
-		</d2p1:KeyValueOfstringGeneratorSettings_PDn_PAR3E>
-		<d2p1:KeyValueOfstringGeneratorSettings_PDn_PAR3E>
-			<d2p1:Key>Slope World</d2p1:Key>
-			<d2p1:Value xmlns:d4p1="http://schemas.datacontract.org/2004/07/Essence.Editor.Bridge.Scenario.Generators" i:type="d4p1:SlopeGeneratorSettings">
-				<d4p1:Grade>-3</d4p1:Grade>
-				<d4p1:Rotation>0</d4p1:Rotation>
-			</d2p1:Value>
-		</d2p1:KeyValueOfstringGeneratorSettings_PDn_PAR3E>
-		<d2p1:KeyValueOfstringGeneratorSettings_PDn_PAR3E>
-			<d2p1:Key>Scale World</d2p1:Key>
-			<d2p1:Value xmlns:d4p1="http://schemas.datacontract.org/2004/07/Essence.Editor.Bridge.Scenario.Generators" i:type="d4p1:ScaleGeneratorSettings">
-				<d4p1:Scale>1</d4p1:Scale>
-			</d2p1:Value>
-		</d2p1:KeyValueOfstringGeneratorSettings_PDn_PAR3E>
-		<d2p1:KeyValueOfstringGeneratorSettings_PDn_PAR3E>
-			<d2p1:Key>Auto Tile</d2p1:Key>
-			<d2p1:Value xmlns:d4p1="http://schemas.datacontract.org/2004/07/Essence.Editor.Bridge.Scenario.Generators" i:type="d4p1:AutoTileGeneratorSettings">
-				<d4p1:AutoTileLayers />
-			</d2p1:Value>
-		</d2p1:KeyValueOfstringGeneratorSettings_PDn_PAR3E>
-		<d2p1:KeyValueOfstringGeneratorSettings_PDn_PAR3E>
-			<d2p1:Key>Gaussian Blur Terrain</d2p1:Key>
-			<d2p1:Value xmlns:d4p1="http://schemas.datacontract.org/2004/07/Essence.Editor.Bridge.Scenario.Generators" i:type="d4p1:GaussianBlurTerrainGeneratorSettings">
-				<d4p1:StandardDeviation>3</d4p1:StandardDeviation>
-			</d2p1:Value>
-		</d2p1:KeyValueOfstringGeneratorSettings_PDn_PAR3E>
-	</GeneratorSettings>
-</ScenarioUserSettings>

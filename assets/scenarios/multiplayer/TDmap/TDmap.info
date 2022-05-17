@@ -67,8 +67,8 @@ HeaderInfo =
 		{
 			ebp_name = "holy_site",
 			owner_id = 0,
-			x = -9.50000,
-			y = 1.50000,
+			x = 3.50000,
+			y = -10.50000,
 		},
 	},
 	scenario_type = 1,
@@ -77,41 +77,63 @@ HeaderInfo =
 	{
 		 
 		{
+			do_not_randomize = true,
+			flags = 4294967231,
 			status = 0,
 			team = 0,
 		},
 		 
 		{
+			do_not_randomize = true,
+			flags = 4294967231,
 			status = 0,
 			team = 0,
 		},
 		 
 		{
+			do_not_randomize = true,
+			flags = 4294967225,
+			race = "mongol",
 			status = 2,
 			team = 1,
 		},
 		 
 		{
+			do_not_randomize = true,
+			flags = 4294967225,
+			race = "mongol",
 			status = 2,
 			team = 1,
 		},
 		 
 		{
+			do_not_randomize = true,
+			flags = 4294967225,
+			race = "mongol",
 			status = 2,
 			team = 1,
 		},
 		 
 		{
+			do_not_randomize = true,
+			flags = 4294967225,
+			race = "mongol",
 			status = 2,
 			team = 1,
 		},
 		 
 		{
+			do_not_randomize = true,
+			flags = 4294967225,
+			race = "mongol",
 			status = 2,
 			team = 1,
 		},
 		 
 		{
+			do_not_randomize = true,
+			flags = 4294967225,
+			race = "mongol",
 			status = 2,
 			team = 1,
 		},
