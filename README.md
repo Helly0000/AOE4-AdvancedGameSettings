@@ -38,6 +38,7 @@ _Speeds up production and reduces cost of economic units to help establish stron
 * Handicaps  
 _Provides percantage bonus to each player based on selected value. Economic bonuses are faster gather rates, larger carrying capacity and higher trade. Military bonuses include higher armor, health for all units and buildings. Buildings also receive higher production and research speed._
 ### Full Menu Preview
+![image](https://user-images.githubusercontent.com/37557138/169667259-c9b3af09-d406-4e96-a2cb-9e5db00eb363.png)
 ![image](https://user-images.githubusercontent.com/37557138/167272719-32d5087c-794f-46e9-8ec1-bf674c8b62ee.png)  
 ![image](https://user-images.githubusercontent.com/37557138/167272731-036610fb-7021-4d34-89c8-879e684a22b4.png)  
 ![image](https://user-images.githubusercontent.com/37557138/167272736-5b8b0890-e9f8-4255-8974-08ab9d034b9b.png)   
@@ -74,4 +75,4 @@ Yes as long as you are doing more than minimal amount of changes or your mod isn
 * I have this cool idea...  
 Create ticket and we will see...
 * Mod Localization to other languages  
-If you can provide translation, it will be incorporated into the mod. Current english database is [here](https://github.com/Woprok/AOE4-AdvancedGameSettings/blob/master/assets/locdb/Advanced%20Game%20Settings_en.csv)
+If you can provide translation, it will be incorporated into the mod. Current english database is [here](https://github.com/Woprok/AOE4-AdvancedGameSettings/blob/master/assets/locdb/Advanced%20Game%20Settings_en.csv) If you want to test localization on local version of the mod you can use this [cheatsheet image to add entry to localization database.](https://github.com/Woprok/AOE4-AdvancedGameSettings/blob/master/resources/GUIDE%20TO%20NEW%20LOCALIZATION.png)
